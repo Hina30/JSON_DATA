@@ -1,4 +1,3 @@
-![6 2](https://github.com/Hina30/JSON_DATA/assets/126219362/c8fc7485-3e87-473d-ad95-499c8aa00d6b)# JSON_DATA
 
 MySQL JSON data
 Submitted by:
